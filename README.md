@@ -1,7 +1,5 @@
 # English AI Tutor — bản mẫu v1
 
-Tool RIÊNG, không liên quan bot trade hay GameBooster.
-
 ## Chạy trên Windows
 1. Giải nén ra folder mới.
 2. Bấm đúp `CHAY_APP.bat` (lần đầu sẽ cài thư viện).
