@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.exe
+tutor/settings.json
+*.log
+.env
+.venv/
+env/
